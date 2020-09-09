@@ -11,12 +11,12 @@ Machine vision is one of crucial robotics’ kit. Such that, Perception provides
 1. Introduction to Image Processing
 
 2. Basic Image Processing
+    
+    - Arithmetic Operations
 
-- Arithmetic Operations
-
-- Relations Between Pixels
-
-- Converting Color Spaces
+    - Relations Between Pixels
+   
+    - Converting Color Spaces
 
 3. Geometric Transformation
 
@@ -28,21 +28,21 @@ Machine vision is one of crucial robotics’ kit. Such that, Perception provides
 
 7. Spatial Filters (Smoothing & sharpening Filters)
 
-- Gaussian Filter
-
-- Non-Linear Filters (Median Filter)
-
-- Averaging Filter
-
-- Laplacian Filter
+    - Gaussian Filter
+    
+    - Non-Linear Filters (Median Filter)
+    
+    - Averaging Filter
+    
+    - Laplacian Filter
 
 8. Contours
 
-- Contour Detecting
+    - Contour Detecting
 
-- Contour Features
+    - Contour Features
 
-- Contour Proprieties
+    - Contour Proprieties
 
 The content will be uploaded when courses are launched
 
