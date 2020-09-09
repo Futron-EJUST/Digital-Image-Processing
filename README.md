@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Welcome to Robotics Club Family
 
-You can use the [editor on GitHub](https://github.com/Futron-EJUST/Digital-Image-Processing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**We hope you enjoy throughout the joureny**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Description
 
-### Markdown
+Machine vision is one of crucial robotics’ kit. Such that, Perception provides Robots with information about the world they inhabit by interpreting the sensor (Camera) response. It’s not an easy task to extract information from an image and take a decision based on it, it requires high level of image processing (machine vision). So, in this course we will start with low level of digital image processing. At end of this course, you will have a basic concept in field of image processing, how to deal with MATLAB’S image processing toolbox and you will be able to understand most of the building blocks in machine vision or digital image processing algorithms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Course Content 
 
-```markdown
-Syntax highlighted code block
+1. Introduction to Image Processing
 
-# Header 1
-## Header 2
-### Header 3
+2. Basic Image Processing
 
-- Bulleted
-- List
+- Arithmetic Operations
 
-1. Numbered
-2. List
+- Relations Between Pixels
 
-**Bold** and _Italic_ and `Code` text
+- Converting Color Spaces
 
-[Link](url) and ![Image](src)
-```
+3. Geometric Transformation
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4. Intensity Transformation
 
-### Jekyll Themes
+5. Histogram Processing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Futron-EJUST/Digital-Image-Processing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+6. Thresholding
 
-### Support or Contact
+7. Spatial Filters (Smoothing & sharpening Filters)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Gaussian Filter
+
+- Non-Linear Filters (Median Filter)
+
+- Averaging Filter
+
+- Laplacian Filter
+
+8. Contours
+
+- Contour Detecting
+
+- Contour Features
+
+- Contour Proprieties
+
+The content will be uploaded when courses are launched
+
+Return to [home page](https://futron-ejust.github.io/FUTRON/).
